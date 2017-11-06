@@ -1,0 +1,2309 @@
+{
+  "boulders": [
+    {
+      "diff": "GREEN",
+      "name": "712"
+    },
+    {
+      "diff": "BLUE",
+      "name": "A1"
+    },
+    {
+      "diff": "YELLOW",
+      "name": "A10"
+    },
+    {
+      "diff": "YELLOW",
+      "name": "A11"
+    },
+    {
+      "diff": "YELLOW",
+      "name": "A12"
+    },
+    {
+      "diff": "YELLOW",
+      "name": "A13"
+    },
+    {
+      "diff": "YELLOW",
+      "name": "A14"
+    },
+    {
+      "diff": "YELLOW",
+      "name": "A16"
+    },
+    {
+      "diff": "BLUE",
+      "name": "A17"
+    },
+    {
+      "diff": "BLUE",
+      "name": "A2"
+    },
+    {
+      "diff": "YELLOW",
+      "name": "A3"
+    },
+    {
+      "diff": "GREEN",
+      "name": "A4"
+    },
+    {
+      "diff": "YELLOW",
+      "name": "A5"
+    },
+    {
+      "diff": "YELLOW",
+      "name": "A6"
+    },
+    {
+      "diff": "GREEN",
+      "name": "A7"
+    },
+    {
+      "diff": "BLUE",
+      "name": "A8"
+    },
+    {
+      "diff": "YELLOW",
+      "name": "A9"
+    },
+    {
+      "diff": "BLUE",
+      "name": "Amsonia"
+    },
+    {
+      "diff": "BLUE",
+      "name": "Axolotl"
+    },
+    {
+      "diff": "YELLOW",
+      "name": "Balance"
+    },
+    {
+      "diff": "GREEN",
+      "name": "Bizserge"
+    },
+    {
+      "diff": "BLUE",
+      "name": "Blútúsz"
+    },
+    {
+      "diff": "GREEN",
+      "name": "Bot"
+    },
+    {
+      "diff": "GREEN",
+      "name": "Bugri"
+    },
+    {
+      "diff": "RED",
+      "name": "Buxus"
+    },
+    {
+      "diff": "YELLOW",
+      "name": "California"
+    },
+    {
+      "diff": "YELLOW",
+      "name": "Chleone"
+    },
+    {
+      "diff": "YELLOW",
+      "name": "Coppi"
+    },
+    {
+      "diff": "BLUE",
+      "name": "Csütörtök"
+    },
+    {
+      "diff": "BLUE",
+      "name": "Cukor"
+    },
+    {
+      "diff": "GREEN",
+      "name": "Cézár"
+    },
+    {
+      "diff": "GREEN",
+      "name": "Daphne"
+    },
+    {
+      "diff": "GREEN",
+      "name": "E.T. haza"
+    },
+    {
+      "diff": "BLUE",
+      "name": "E1"
+    },
+    {
+      "diff": "GREEN",
+      "name": "E11"
+    },
+    {
+      "diff": "YELLOW",
+      "name": "E14"
+    },
+    {
+      "diff": "YELLOW",
+      "name": "E15"
+    },
+    {
+      "diff": "BLUE",
+      "name": "E16"
+    },
+    {
+      "diff": "GREEN",
+      "name": "E17"
+    },
+    {
+      "diff": "BLUE",
+      "name": "E18"
+    },
+    {
+      "diff": "YELLOW",
+      "name": "E19"
+    },
+    {
+      "diff": "YELLOW",
+      "name": "E3"
+    },
+    {
+      "diff": "YELLOW",
+      "name": "E4"
+    },
+    {
+      "diff": "BLUE",
+      "name": "E8"
+    },
+    {
+      "diff": "YELLOW",
+      "name": "E9"
+    },
+    {
+      "diff": "YELLOW",
+      "name": "Eagle"
+    },
+    {
+      "diff": "GREEN",
+      "name": "Ewok"
+    },
+    {
+      "diff": "GREEN",
+      "name": "Fa"
+    },
+    {
+      "diff": "BLUE",
+      "name": "Flash"
+    },
+    {
+      "diff": "GREEN",
+      "name": "Floyd"
+    },
+    {
+      "diff": "GREEN",
+      "name": "Fridi"
+    },
+    {
+      "diff": "BLUE",
+      "name": "G?te"
+    },
+    {
+      "diff": "YELLOW",
+      "name": "Grátisz"
+    },
+    {
+      "diff": "GREEN",
+      "name": "Gyíkzöld"
+    },
+    {
+      "diff": "BLUE",
+      "name": "Halászlé"
+    },
+    {
+      "diff": "GREEN",
+      "name": "Herever?"
+    },
+    {
+      "diff": "GREEN",
+      "name": "Hófehérke"
+    },
+    {
+      "diff": "YELLOW",
+      "name": "Irie"
+    },
+    {
+      "diff": "YELLOW",
+      "name": "Kelgyó"
+    },
+    {
+      "diff": "BLUE",
+      "name": "Korhely"
+    },
+    {
+      "diff": "BLUE",
+      "name": "Kruton"
+    },
+    {
+      "diff": "GREEN",
+      "name": "Kukimuki"
+    },
+    {
+      "diff": "GREEN",
+      "name": "Kurkuma"
+    },
+    {
+      "diff": "BLUE",
+      "name": "Lamium"
+    },
+    {
+      "diff": "BLUE",
+      "name": "Langa"
+    },
+    {
+      "diff": "RED",
+      "name": "Leoncio"
+    },
+    {
+      "diff": "GREEN",
+      "name": "Leveli"
+    },
+    {
+      "diff": "YELLOW",
+      "name": "Láp"
+    },
+    {
+      "diff": "YELLOW",
+      "name": "Lép"
+    },
+    {
+      "diff": "RED",
+      "name": "Monarda"
+    },
+    {
+      "diff": "YELLOW",
+      "name": "Mont Aiguillé"
+    },
+    {
+      "diff": "GREEN",
+      "name": "Mák"
+    },
+    {
+      "diff": "GREEN",
+      "name": "Mézga"
+    },
+    {
+      "diff": "GREEN",
+      "name": "Nasty"
+    },
+    {
+      "diff": "GREEN",
+      "name": "Nem"
+    },
+    {
+      "diff": "GREEN",
+      "name": "Nyuszi"
+    },
+    {
+      "diff": "YELLOW",
+      "name": "Nyúl"
+    },
+    {
+      "diff": "GREEN",
+      "name": "Nátrium"
+    },
+    {
+      "diff": "GREEN",
+      "name": "Néz"
+    },
+    {
+      "diff": "GREEN",
+      "name": "OBI_WAN"
+    },
+    {
+      "diff": "GREEN",
+      "name": "Palacsinta"
+    },
+    {
+      "diff": "GREEN",
+      "name": "Panda"
+    },
+    {
+      "diff": "YELLOW",
+      "name": "Pantalló"
+    },
+    {
+      "diff": "GREEN",
+      "name": "Pink"
+    },
+    {
+      "diff": "YELLOW",
+      "name": "Pondró"
+    },
+    {
+      "diff": "YELLOW",
+      "name": "Pro"
+    },
+    {
+      "diff": "GREEN",
+      "name": "Rachel"
+    },
+    {
+      "diff": "GREEN",
+      "name": "Reverend"
+    },
+    {
+      "diff": "YELLOW",
+      "name": "Rotor"
+    },
+    {
+      "diff": "GREEN",
+      "name": "SYNTAX"
+    },
+    {
+      "diff": "BLUE",
+      "name": "Sparrow"
+    },
+    {
+      "diff": "GREEN",
+      "name": "Sprong"
+    },
+    {
+      "diff": "YELLOW",
+      "name": "Street Life"
+    },
+    {
+      "diff": "YELLOW",
+      "name": "Sugar"
+    },
+    {
+      "diff": "YELLOW",
+      "name": "Summit"
+    },
+    {
+      "diff": "YELLOW",
+      "name": "Swing"
+    },
+    {
+      "diff": "GREEN",
+      "name": "Sz?z"
+    },
+    {
+      "diff": "YELLOW",
+      "name": "Szende"
+    },
+    {
+      "diff": "BLUE",
+      "name": "Szombat"
+    },
+    {
+      "diff": "BLUE",
+      "name": "Szívizom"
+    },
+    {
+      "diff": "YELLOW",
+      "name": "Sötét Lovag"
+    },
+    {
+      "diff": "GREEN",
+      "name": "Teker?"
+    },
+    {
+      "diff": "GREEN",
+      "name": "Teperto"
+    },
+    {
+      "diff": "GREEN",
+      "name": "Toldi"
+    },
+    {
+      "diff": "GREEN",
+      "name": "Trabant"
+    },
+    {
+      "diff": "GREEN",
+      "name": "Traverz"
+    },
+    {
+      "diff": "GREEN",
+      "name": "Twerk"
+    },
+    {
+      "diff": "GREEN",
+      "name": "Tép"
+    },
+    {
+      "diff": "GREEN",
+      "name": "Tímár"
+    },
+    {
+      "diff": "GREEN",
+      "name": "Töri"
+    },
+    {
+      "diff": "GREEN",
+      "name": "Tüzijáték"
+    },
+    {
+      "diff": "BLUE",
+      "name": "Varánusz"
+    },
+    {
+      "diff": "GREEN",
+      "name": "Vas"
+    },
+    {
+      "diff": "BLUE",
+      "name": "Virsli"
+    },
+    {
+      "diff": "GREEN",
+      "name": "Vámpír"
+    },
+    {
+      "diff": "BLUE",
+      "name": "Whitw"
+    },
+    {
+      "diff": "GREEN",
+      "name": "ZSüsztin"
+    },
+    {
+      "diff": "GREEN",
+      "name": "Ziltoid"
+    },
+    {
+      "diff": "YELLOW",
+      "name": "Zokni"
+    },
+    {
+      "diff": "GREEN",
+      "name": "Zsírfehér"
+    },
+    {
+      "diff": "GREEN",
+      "name": "Zuzmózöld"
+    },
+    {
+      "diff": "GREEN",
+      "name": "Zz"
+    },
+    {
+      "diff": "GREEN",
+      "name": "ÁLOM"
+    }
+  ],
+  "ranks": [
+    {
+      "rank": 1,
+      "name": "Balázs Bajusz",
+      "score": 87,
+      "boulders": [
+        {
+          "diff": "RED",
+          "name": "Leoncio",
+          "flash": true
+        },
+        {
+          "diff": "RED",
+          "name": "Buxus",
+          "flash": false
+        },
+        {
+          "diff": "RED",
+          "name": "Monarda",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "Tímár",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Pink",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Bot",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Nátrium",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "ZSüsztin",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Toldi",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Tüzijáték",
+          "flash": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "Vasadi Szabolcs",
+      "score": 82,
+      "boulders": [
+        {
+          "diff": "RED",
+          "name": "Leoncio",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "A7",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Ziltoid",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Gyíkzöld",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Nem",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Zuzmózöld",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Trabant",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "E.T. haza",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Zsírfehér",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "E17",
+          "flash": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Zsolt Berenyi",
+      "score": 82,
+      "boulders": [
+        {
+          "diff": "RED",
+          "name": "Monarda",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "Toldi",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Bizserge",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Cézár",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Sprong",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Herever?",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Mézga",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Kukimuki",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Nátrium",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Hófehérke",
+          "flash": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Ágnes Soukup",
+      "score": 80,
+      "boulders": [
+        {
+          "diff": "GREEN",
+          "name": "Herever?",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Mák",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Kukimuki",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Ewok",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Vámpír",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Fridi",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "ZSüsztin",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "E11",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Bot",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "E.T. haza",
+          "flash": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Lakatos Zoltán",
+      "score": 80,
+      "boulders": [
+        {
+          "diff": "GREEN",
+          "name": "Tímár",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Twerk",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Traverz",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Ewok",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "A7",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Mézga",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Vas",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Nasty",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "A4",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Néz",
+          "flash": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "Pál Tóbiás",
+      "score": 80,
+      "boulders": [
+        {
+          "diff": "GREEN",
+          "name": "Panda",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Twerk",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Kurkuma",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "SYNTAX",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Töri",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Tüzijáték",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Zz",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Daphne",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Leveli",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Floyd",
+          "flash": true
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "name": "Markó Péter",
+      "score": 78,
+      "boulders": [
+        {
+          "diff": "GREEN",
+          "name": "Vámpír",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Hófehérke",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "E.T. haza",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Twerk",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Mézga",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "ÁLOM",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Tímár",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Toldi",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Cézár",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "Bugri",
+          "flash": false
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "name": "Soma Éles",
+      "score": 78,
+      "boulders": [
+        {
+          "diff": "GREEN",
+          "name": "Mák",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Kukimuki",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Vámpír",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "OBI_WAN",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Fa",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Toldi",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "E11",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Palacsinta",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Néz",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "712",
+          "flash": false
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "name": "Szilárd Szigeti",
+      "score": 77,
+      "boulders": [
+        {
+          "diff": "GREEN",
+          "name": "A4",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Twerk",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Vámpír",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Kurkuma",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Toldi",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Sprong",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Cézár",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Herever?",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "E.T. haza",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "A7",
+          "flash": false
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "name": "Jacsó Gábor",
+      "score": 76,
+      "boulders": [
+        {
+          "diff": "GREEN",
+          "name": "Vámpír",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Fa",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Toldi",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Cézár",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Ewok",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "E.T. haza",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Twerk",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "Mák",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "712",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "Herever?",
+          "flash": false
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "name": "Tamás Möhring",
+      "score": 75,
+      "boulders": [
+        {
+          "diff": "GREEN",
+          "name": "Herever?",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Teker?",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "ZSüsztin",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Mák",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Toldi",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "E.T. haza",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "Hófehérke",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "Zz",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "Ziltoid",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "Twerk",
+          "flash": false
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "name": "Dávid Éles",
+      "score": 73,
+      "boulders": [
+        {
+          "diff": "GREEN",
+          "name": "Tímár",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "E.T. haza",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Floyd",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Reverend",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "Mézga",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "Fa",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "Rachel",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "OBI_WAN",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "Toldi",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "Herever?",
+          "flash": false
+        }
+      ]
+    },
+    {
+      "rank": 13,
+      "name": "Tóth Gábor",
+      "score": 73,
+      "boulders": [
+        {
+          "diff": "GREEN",
+          "name": "Cézár",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "A4",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Toldi",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "E17",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "Vámpír",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "Floyd",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "Bugri",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "Twerk",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "Kukimuki",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "ZSüsztin",
+          "flash": false
+        }
+      ]
+    },
+    {
+      "rank": 14,
+      "name": "Adrienn Nemeth",
+      "score": 72,
+      "boulders": [
+        {
+          "diff": "GREEN",
+          "name": "Toldi",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Cézár",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Mák",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Fa",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "A7",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "Tép",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "ZSüsztin",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "Mézga",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "Nem",
+          "flash": false
+        },
+        {
+          "diff": "YELLOW",
+          "name": "Zokni",
+          "flash": true
+        }
+      ]
+    },
+    {
+      "rank": 15,
+      "name": "Karolina Vizi",
+      "score": 70,
+      "boulders": [
+        {
+          "diff": "GREEN",
+          "name": "Vámpír",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "Fa",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "ÁLOM",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "Mézga",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "ZSüsztin",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "Tép",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "Nátrium",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "Cézár",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "E11",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "Toldi",
+          "flash": false
+        }
+      ]
+    },
+    {
+      "rank": 16,
+      "name": "Mihály Bodóczky",
+      "score": 67,
+      "boulders": [
+        {
+          "diff": "GREEN",
+          "name": "A7",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Zz",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "Sprong",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "Nyuszi",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "Bugri",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "Kukimuki",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "Teperto",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "Herever?",
+          "flash": false
+        },
+        {
+          "diff": "YELLOW",
+          "name": "A14",
+          "flash": true
+        },
+        {
+          "diff": "YELLOW",
+          "name": "Street Life",
+          "flash": true
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "name": "Zalud Jenna",
+      "score": 62,
+      "boulders": [
+        {
+          "diff": "GREEN",
+          "name": "E11",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Cézár",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Mák",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "ZSüsztin",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "Toldi",
+          "flash": false
+        },
+        {
+          "diff": "YELLOW",
+          "name": "E9",
+          "flash": true
+        },
+        {
+          "diff": "YELLOW",
+          "name": "E4",
+          "flash": true
+        },
+        {
+          "diff": "YELLOW",
+          "name": "E14",
+          "flash": true
+        },
+        {
+          "diff": "YELLOW",
+          "name": "E3",
+          "flash": true
+        },
+        {
+          "diff": "YELLOW",
+          "name": "E15",
+          "flash": true
+        }
+      ]
+    },
+    {
+      "rank": 18,
+      "name": "András Haut",
+      "score": 58,
+      "boulders": [
+        {
+          "diff": "GREEN",
+          "name": "Kukimuki",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "Ziltoid",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "Bugri",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "Toldi",
+          "flash": false
+        },
+        {
+          "diff": "YELLOW",
+          "name": "A13",
+          "flash": true
+        },
+        {
+          "diff": "YELLOW",
+          "name": "A5",
+          "flash": true
+        },
+        {
+          "diff": "YELLOW",
+          "name": "Balance",
+          "flash": true
+        },
+        {
+          "diff": "YELLOW",
+          "name": "A16",
+          "flash": true
+        },
+        {
+          "diff": "YELLOW",
+          "name": "Sötét Lovag",
+          "flash": true
+        },
+        {
+          "diff": "YELLOW",
+          "name": "Zokni",
+          "flash": true
+        }
+      ]
+    },
+    {
+      "rank": 19,
+      "name": "Adrián Puszta",
+      "score": 54,
+      "boulders": [
+        {
+          "diff": "GREEN",
+          "name": "Toldi",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Mézga",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "A4",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "Nem",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "Cézár",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "A7",
+          "flash": false
+        },
+        {
+          "diff": "YELLOW",
+          "name": "Kelgyó",
+          "flash": true
+        },
+        {
+          "diff": "YELLOW",
+          "name": "Chleone",
+          "flash": true
+        }
+      ]
+    },
+    {
+      "rank": 20,
+      "name": "Levente Sallai",
+      "score": 50,
+      "boulders": [
+        {
+          "diff": "YELLOW",
+          "name": "Eagle",
+          "flash": true
+        },
+        {
+          "diff": "YELLOW",
+          "name": "Grátisz",
+          "flash": true
+        },
+        {
+          "diff": "YELLOW",
+          "name": "Láp",
+          "flash": true
+        },
+        {
+          "diff": "YELLOW",
+          "name": "A11",
+          "flash": true
+        },
+        {
+          "diff": "YELLOW",
+          "name": "Pro",
+          "flash": true
+        },
+        {
+          "diff": "YELLOW",
+          "name": "Pantalló",
+          "flash": true
+        },
+        {
+          "diff": "YELLOW",
+          "name": "Lép",
+          "flash": true
+        },
+        {
+          "diff": "YELLOW",
+          "name": "A3",
+          "flash": true
+        },
+        {
+          "diff": "YELLOW",
+          "name": "Zokni",
+          "flash": true
+        },
+        {
+          "diff": "YELLOW",
+          "name": "E4",
+          "flash": true
+        }
+      ]
+    },
+    {
+      "rank": 21,
+      "name": "Katalin Kasza",
+      "score": 45,
+      "boulders": [
+        {
+          "diff": "GREEN",
+          "name": "Cézár",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Toldi",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "SYNTAX",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "ZSüsztin",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "ÁLOM",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "Kurkuma",
+          "flash": false
+        }
+      ]
+    },
+    {
+      "rank": 22,
+      "name": "Veronika Láng",
+      "score": 44,
+      "boulders": [
+        {
+          "diff": "YELLOW",
+          "name": "Szende",
+          "flash": true
+        },
+        {
+          "diff": "YELLOW",
+          "name": "Mont Aiguillé",
+          "flash": true
+        },
+        {
+          "diff": "YELLOW",
+          "name": "Irie",
+          "flash": true
+        },
+        {
+          "diff": "YELLOW",
+          "name": "A5",
+          "flash": true
+        },
+        {
+          "diff": "YELLOW",
+          "name": "A6",
+          "flash": false
+        },
+        {
+          "diff": "YELLOW",
+          "name": "A3",
+          "flash": false
+        },
+        {
+          "diff": "YELLOW",
+          "name": "Street Life",
+          "flash": false
+        },
+        {
+          "diff": "YELLOW",
+          "name": "Swing",
+          "flash": false
+        },
+        {
+          "diff": "YELLOW",
+          "name": "A13",
+          "flash": false
+        },
+        {
+          "diff": "YELLOW",
+          "name": "A11",
+          "flash": false
+        }
+      ]
+    },
+    {
+      "rank": 23,
+      "name": "Zsanett Sárközi",
+      "score": 39,
+      "boulders": [
+        {
+          "diff": "YELLOW",
+          "name": "A11",
+          "flash": true
+        },
+        {
+          "diff": "YELLOW",
+          "name": "Mont Aiguillé",
+          "flash": true
+        },
+        {
+          "diff": "YELLOW",
+          "name": "Summit",
+          "flash": true
+        },
+        {
+          "diff": "YELLOW",
+          "name": "E15",
+          "flash": false
+        },
+        {
+          "diff": "YELLOW",
+          "name": "E9",
+          "flash": false
+        },
+        {
+          "diff": "YELLOW",
+          "name": "E4",
+          "flash": false
+        },
+        {
+          "diff": "YELLOW",
+          "name": "Coppi",
+          "flash": false
+        },
+        {
+          "diff": "YELLOW",
+          "name": "E19",
+          "flash": false
+        },
+        {
+          "diff": "BLUE",
+          "name": "E1",
+          "flash": true
+        },
+        {
+          "diff": "BLUE",
+          "name": "A1",
+          "flash": true
+        }
+      ]
+    },
+    {
+      "rank": 24,
+      "name": "Peter Szij",
+      "score": 36,
+      "boulders": [
+        {
+          "diff": "GREEN",
+          "name": "Palacsinta",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Ewok",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "E.T. haza",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "Sz?z",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "712",
+          "flash": false
+        }
+      ]
+    },
+    {
+      "rank": 25,
+      "name": "Borbély Attila",
+      "score": 34,
+      "boulders": [
+        {
+          "diff": "YELLOW",
+          "name": "Pantalló",
+          "flash": false
+        },
+        {
+          "diff": "YELLOW",
+          "name": "A9",
+          "flash": false
+        },
+        {
+          "diff": "YELLOW",
+          "name": "Lép",
+          "flash": false
+        },
+        {
+          "diff": "YELLOW",
+          "name": "Street Life",
+          "flash": false
+        },
+        {
+          "diff": "YELLOW",
+          "name": "A3",
+          "flash": false
+        },
+        {
+          "diff": "YELLOW",
+          "name": "A5",
+          "flash": false
+        },
+        {
+          "diff": "YELLOW",
+          "name": "Pondró",
+          "flash": false
+        },
+        {
+          "diff": "BLUE",
+          "name": "Blútúsz",
+          "flash": true
+        },
+        {
+          "diff": "BLUE",
+          "name": "Sparrow",
+          "flash": true
+        },
+        {
+          "diff": "BLUE",
+          "name": "G?te",
+          "flash": true
+        }
+      ]
+    },
+    {
+      "rank": 26,
+      "name": "Kinga Böszörményi",
+      "score": 30,
+      "boulders": [
+        {
+          "diff": "YELLOW",
+          "name": "A10",
+          "flash": true
+        },
+        {
+          "diff": "YELLOW",
+          "name": "A6",
+          "flash": true
+        },
+        {
+          "diff": "YELLOW",
+          "name": "Rotor",
+          "flash": false
+        },
+        {
+          "diff": "YELLOW",
+          "name": "A5",
+          "flash": false
+        },
+        {
+          "diff": "BLUE",
+          "name": "A1",
+          "flash": true
+        },
+        {
+          "diff": "BLUE",
+          "name": "Whitw",
+          "flash": true
+        },
+        {
+          "diff": "BLUE",
+          "name": "A2",
+          "flash": true
+        },
+        {
+          "diff": "BLUE",
+          "name": "A8",
+          "flash": true
+        },
+        {
+          "diff": "BLUE",
+          "name": "G?te",
+          "flash": true
+        },
+        {
+          "diff": "BLUE",
+          "name": "A17",
+          "flash": true
+        }
+      ]
+    },
+    {
+      "rank": 27,
+      "name": "Marcell Lipusz",
+      "score": 26,
+      "boulders": [
+        {
+          "diff": "YELLOW",
+          "name": "A5",
+          "flash": true
+        },
+        {
+          "diff": "YELLOW",
+          "name": "A10",
+          "flash": true
+        },
+        {
+          "diff": "YELLOW",
+          "name": "A3",
+          "flash": false
+        },
+        {
+          "diff": "BLUE",
+          "name": "A1",
+          "flash": true
+        },
+        {
+          "diff": "BLUE",
+          "name": "A2",
+          "flash": true
+        },
+        {
+          "diff": "BLUE",
+          "name": "A8",
+          "flash": true
+        },
+        {
+          "diff": "BLUE",
+          "name": "Varánusz",
+          "flash": true
+        },
+        {
+          "diff": "BLUE",
+          "name": "Axolotl",
+          "flash": true
+        },
+        {
+          "diff": "BLUE",
+          "name": "Szombat",
+          "flash": true
+        }
+      ]
+    },
+    {
+      "rank": 28,
+      "name": "Nora Novak",
+      "score": 25,
+      "boulders": [
+        {
+          "diff": "GREEN",
+          "name": "Cézár",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Toldi",
+          "flash": false
+        },
+        {
+          "diff": "YELLOW",
+          "name": "Sugar",
+          "flash": true
+        },
+        {
+          "diff": "YELLOW",
+          "name": "Szende",
+          "flash": true
+        }
+      ]
+    },
+    {
+      "rank": 29,
+      "name": "Bálint Tutsek",
+      "score": 23,
+      "boulders": [
+        {
+          "diff": "YELLOW",
+          "name": "A12",
+          "flash": true
+        },
+        {
+          "diff": "BLUE",
+          "name": "Flash",
+          "flash": true
+        },
+        {
+          "diff": "BLUE",
+          "name": "Csütörtök",
+          "flash": true
+        },
+        {
+          "diff": "BLUE",
+          "name": "E8",
+          "flash": true
+        },
+        {
+          "diff": "BLUE",
+          "name": "Blútúsz",
+          "flash": true
+        },
+        {
+          "diff": "BLUE",
+          "name": "Szívizom",
+          "flash": true
+        },
+        {
+          "diff": "BLUE",
+          "name": "Langa",
+          "flash": true
+        },
+        {
+          "diff": "BLUE",
+          "name": "E1",
+          "flash": true
+        },
+        {
+          "diff": "BLUE",
+          "name": "A1",
+          "flash": true
+        },
+        {
+          "diff": "BLUE",
+          "name": "Virsli",
+          "flash": true
+        }
+      ]
+    },
+    {
+      "rank": 30,
+      "name": "Dániel Ayhan",
+      "score": 18,
+      "boulders": [
+        {
+          "diff": "GREEN",
+          "name": "Twerk",
+          "flash": false
+        },
+        {
+          "diff": "GREEN",
+          "name": "Toldi",
+          "flash": false
+        },
+        {
+          "diff": "YELLOW",
+          "name": "Balance",
+          "flash": false
+        }
+      ]
+    },
+    {
+      "rank": 31,
+      "name": "Zsombor Lányi",
+      "score": 16,
+      "boulders": [
+        {
+          "diff": "YELLOW",
+          "name": "Mont Aiguillé",
+          "flash": false
+        },
+        {
+          "diff": "YELLOW",
+          "name": "Nyúl",
+          "flash": false
+        },
+        {
+          "diff": "BLUE",
+          "name": "A17",
+          "flash": false
+        },
+        {
+          "diff": "BLUE",
+          "name": "A8",
+          "flash": false
+        },
+        {
+          "diff": "BLUE",
+          "name": "A2",
+          "flash": false
+        },
+        {
+          "diff": "BLUE",
+          "name": "Szombat",
+          "flash": false
+        },
+        {
+          "diff": "BLUE",
+          "name": "A1",
+          "flash": false
+        },
+        {
+          "diff": "BLUE",
+          "name": "Csütörtök",
+          "flash": false
+        },
+        {
+          "diff": "BLUE",
+          "name": "Varánusz",
+          "flash": false
+        },
+        {
+          "diff": "BLUE",
+          "name": "Axolotl",
+          "flash": false
+        }
+      ]
+    },
+    {
+      "rank": 32,
+      "name": "Farkas Tamas",
+      "score": 15,
+      "boulders": [
+        {
+          "diff": "GREEN",
+          "name": "Toldi",
+          "flash": true
+        },
+        {
+          "diff": "GREEN",
+          "name": "Cézár",
+          "flash": false
+        }
+      ]
+    },
+    {
+      "rank": 33,
+      "name": "Balázs Gallwitz",
+      "score": 10,
+      "boulders": [
+        {
+          "diff": "YELLOW",
+          "name": "Swing",
+          "flash": false
+        },
+        {
+          "diff": "YELLOW",
+          "name": "California",
+          "flash": false
+        },
+        {
+          "diff": "BLUE",
+          "name": "A1",
+          "flash": false
+        },
+        {
+          "diff": "BLUE",
+          "name": "A2",
+          "flash": false
+        }
+      ]
+    },
+    {
+      "rank": 34,
+      "name": "Szmn Rgn",
+      "score": 10,
+      "boulders": [
+        {
+          "diff": "BLUE",
+          "name": "Flash",
+          "flash": true
+        },
+        {
+          "diff": "BLUE",
+          "name": "Virsli",
+          "flash": true
+        },
+        {
+          "diff": "BLUE",
+          "name": "Korhely",
+          "flash": true
+        },
+        {
+          "diff": "BLUE",
+          "name": "Halászlé",
+          "flash": true
+        },
+        {
+          "diff": "BLUE",
+          "name": "Kruton",
+          "flash": false
+        },
+        {
+          "diff": "BLUE",
+          "name": "Szívizom",
+          "flash": false
+        }
+      ]
+    },
+    {
+      "rank": 35,
+      "name": "Erd?s Gábor",
+      "score": 7,
+      "boulders": [
+        {
+          "diff": "GREEN",
+          "name": "Vámpír",
+          "flash": false
+        }
+      ]
+    },
+    {
+      "rank": 36,
+      "name": "Tímea Kocsis",
+      "score": 6,
+      "boulders": [
+        {
+          "diff": "BLUE",
+          "name": "A2",
+          "flash": false
+        },
+        {
+          "diff": "BLUE",
+          "name": "A1",
+          "flash": false
+        },
+        {
+          "diff": "BLUE",
+          "name": "Whitw",
+          "flash": false
+        },
+        {
+          "diff": "BLUE",
+          "name": "Amsonia",
+          "flash": false
+        },
+        {
+          "diff": "BLUE",
+          "name": "Cukor",
+          "flash": false
+        },
+        {
+          "diff": "BLUE",
+          "name": "G?te",
+          "flash": false
+        }
+      ]
+    },
+    {
+      "rank": 37,
+      "name": "Eszter Kasza",
+      "score": 4,
+      "boulders": [
+        {
+          "diff": "YELLOW",
+          "name": "Láp",
+          "flash": false
+        }
+      ]
+    },
+    {
+      "rank": 38,
+      "name": "Miglinski Noémi",
+      "score": 4,
+      "boulders": [
+        {
+          "diff": "BLUE",
+          "name": "E16",
+          "flash": false
+        },
+        {
+          "diff": "BLUE",
+          "name": "Amsonia",
+          "flash": false
+        },
+        {
+          "diff": "BLUE",
+          "name": "Lamium",
+          "flash": false
+        },
+        {
+          "diff": "BLUE",
+          "name": "E18",
+          "flash": false
+        }
+      ]
+    }
+  ]
+}
